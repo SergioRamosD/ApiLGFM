@@ -512,11 +512,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sergio_ramos\\source\\repos\\APILGF\\LGFM_Businnes\\LGFM_Businnes.csproj",
+      "projectUniqueName": "C:\\GitHUb\\ApiLGFM\\LGFM_Businnes\\LGFM_Businnes.csproj",
       "projectName": "LGFM_Businnes",
-      "projectPath": "C:\\Users\\sergio_ramos\\source\\repos\\APILGF\\LGFM_Businnes\\LGFM_Businnes.csproj",
+      "projectPath": "C:\\GitHUb\\ApiLGFM\\LGFM_Businnes\\LGFM_Businnes.csproj",
       "packagesPath": "C:\\Users\\sergio_ramos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sergio_ramos\\source\\repos\\APILGF\\LGFM_Businnes\\obj\\",
+      "outputPath": "C:\\GitHUb\\ApiLGFM\\LGFM_Businnes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
@@ -542,11 +542,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\sergio_ramos\\source\\repos\\APILGF\\LGFM_Abstraction\\LGFM_Abstraction.csproj": {
-              "projectPath": "C:\\Users\\sergio_ramos\\source\\repos\\APILGF\\LGFM_Abstraction\\LGFM_Abstraction.csproj"
+            "C:\\GitHUb\\ApiLGFM\\LGFM_Abstraction\\LGFM_Abstraction.csproj": {
+              "projectPath": "C:\\GitHUb\\ApiLGFM\\LGFM_Abstraction\\LGFM_Abstraction.csproj"
             },
-            "C:\\Users\\sergio_ramos\\source\\repos\\APILGF\\LGFM_Entities\\LGFM_Entities.csproj": {
-              "projectPath": "C:\\Users\\sergio_ramos\\source\\repos\\APILGF\\LGFM_Entities\\LGFM_Entities.csproj"
+            "C:\\GitHUb\\ApiLGFM\\LGFM_Entities\\LGFM_Entities.csproj": {
+              "projectPath": "C:\\GitHUb\\ApiLGFM\\LGFM_Entities\\LGFM_Entities.csproj"
             }
           }
         }
