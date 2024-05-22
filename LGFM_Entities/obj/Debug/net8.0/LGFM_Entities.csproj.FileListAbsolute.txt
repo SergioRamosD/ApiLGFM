@@ -9,3 +9,15 @@ C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Entities\obj\Debug\net8.0\LGFM_En
 C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Entities\obj\Debug\net8.0\refint\LGFM_Entities.dll
 C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Entities\obj\Debug\net8.0\LGFM_Entities.pdb
 C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Entities\obj\Debug\net8.0\ref\LGFM_Entities.dll
+C:\GitHUb\ApiLGFM\LGFM_Entities\bin\Debug\net8.0\LGFM_Entities.deps.json
+C:\GitHUb\ApiLGFM\LGFM_Entities\bin\Debug\net8.0\LGFM_Entities.dll
+C:\GitHUb\ApiLGFM\LGFM_Entities\bin\Debug\net8.0\LGFM_Entities.pdb
+C:\GitHUb\ApiLGFM\LGFM_Entities\obj\Debug\net8.0\LGFM_Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHUb\ApiLGFM\LGFM_Entities\obj\Debug\net8.0\LGFM_Entities.AssemblyInfoInputs.cache
+C:\GitHUb\ApiLGFM\LGFM_Entities\obj\Debug\net8.0\LGFM_Entities.AssemblyInfo.cs
+C:\GitHUb\ApiLGFM\LGFM_Entities\obj\Debug\net8.0\LGFM_Entities.csproj.CoreCompileInputs.cache
+C:\GitHUb\ApiLGFM\LGFM_Entities\obj\Debug\net8.0\LGFM_Entities.sourcelink.json
+C:\GitHUb\ApiLGFM\LGFM_Entities\obj\Debug\net8.0\LGFM_Entities.dll
+C:\GitHUb\ApiLGFM\LGFM_Entities\obj\Debug\net8.0\refint\LGFM_Entities.dll
+C:\GitHUb\ApiLGFM\LGFM_Entities\obj\Debug\net8.0\LGFM_Entities.pdb
+C:\GitHUb\ApiLGFM\LGFM_Entities\obj\Debug\net8.0\ref\LGFM_Entities.dll

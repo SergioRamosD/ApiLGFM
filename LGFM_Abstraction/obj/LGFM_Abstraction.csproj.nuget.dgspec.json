@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sergio_ramos\\source\\repos\\APILGF\\LGFM_Abstraction\\LGFM_Abstraction.csproj": {}
+    "C:\\GitHUb\\ApiLGFM\\LGFM_Abstraction\\LGFM_Abstraction.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sergio_ramos\\source\\repos\\APILGF\\LGFM_Abstraction\\LGFM_Abstraction.csproj": {
+    "C:\\GitHUb\\ApiLGFM\\LGFM_Abstraction\\LGFM_Abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sergio_ramos\\source\\repos\\APILGF\\LGFM_Abstraction\\LGFM_Abstraction.csproj",
+        "projectUniqueName": "C:\\GitHUb\\ApiLGFM\\LGFM_Abstraction\\LGFM_Abstraction.csproj",
         "projectName": "LGFM_Abstraction",
-        "projectPath": "C:\\Users\\sergio_ramos\\source\\repos\\APILGF\\LGFM_Abstraction\\LGFM_Abstraction.csproj",
+        "projectPath": "C:\\GitHUb\\ApiLGFM\\LGFM_Abstraction\\LGFM_Abstraction.csproj",
         "packagesPath": "C:\\Users\\sergio_ramos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sergio_ramos\\source\\repos\\APILGF\\LGFM_Abstraction\\obj\\",
+        "outputPath": "C:\\GitHUb\\ApiLGFM\\LGFM_Abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
@@ -37,8 +37,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\sergio_ramos\\source\\repos\\APILGF\\LGFM_Entities\\LGFM_Entities.csproj": {
-                "projectPath": "C:\\Users\\sergio_ramos\\source\\repos\\APILGF\\LGFM_Entities\\LGFM_Entities.csproj"
+              "C:\\GitHUb\\ApiLGFM\\LGFM_Entities\\LGFM_Entities.csproj": {
+                "projectPath": "C:\\GitHUb\\ApiLGFM\\LGFM_Entities\\LGFM_Entities.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\sergio_ramos\\source\\repos\\APILGF\\LGFM_Entities\\LGFM_Entities.csproj": {
+    "C:\\GitHUb\\ApiLGFM\\LGFM_Entities\\LGFM_Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sergio_ramos\\source\\repos\\APILGF\\LGFM_Entities\\LGFM_Entities.csproj",
+        "projectUniqueName": "C:\\GitHUb\\ApiLGFM\\LGFM_Entities\\LGFM_Entities.csproj",
         "projectName": "LGFM_Entities",
-        "projectPath": "C:\\Users\\sergio_ramos\\source\\repos\\APILGF\\LGFM_Entities\\LGFM_Entities.csproj",
+        "projectPath": "C:\\GitHUb\\ApiLGFM\\LGFM_Entities\\LGFM_Entities.csproj",
         "packagesPath": "C:\\Users\\sergio_ramos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sergio_ramos\\source\\repos\\APILGF\\LGFM_Entities\\obj\\",
+        "outputPath": "C:\\GitHUb\\ApiLGFM\\LGFM_Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LGFM_Abstraction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b50c0b6bc894f584d32754e50187a65b699e93d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("LGFM_Abstraction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LGFM_Abstraction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
