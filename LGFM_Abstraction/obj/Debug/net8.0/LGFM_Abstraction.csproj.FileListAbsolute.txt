@@ -1,0 +1,15 @@
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Abstraction\bin\Debug\net8.0\LGFM_Abstraction.deps.json
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Abstraction\bin\Debug\net8.0\LGFM_Abstraction.dll
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Abstraction\bin\Debug\net8.0\LGFM_Abstraction.pdb
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Abstraction\bin\Debug\net8.0\LGFM_Entities.dll
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Abstraction\bin\Debug\net8.0\LGFM_Entities.pdb
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Abstraction\obj\Debug\net8.0\LGFM_Abstraction.csproj.AssemblyReference.cache
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Abstraction\obj\Debug\net8.0\LGFM_Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Abstraction\obj\Debug\net8.0\LGFM_Abstraction.AssemblyInfoInputs.cache
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Abstraction\obj\Debug\net8.0\LGFM_Abstraction.AssemblyInfo.cs
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Abstraction\obj\Debug\net8.0\LGFM_Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Abstraction\obj\Debug\net8.0\LGFM_Abstraction.csproj.CopyComplete
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Abstraction\obj\Debug\net8.0\LGFM_Abstraction.dll
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Abstraction\obj\Debug\net8.0\refint\LGFM_Abstraction.dll
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Abstraction\obj\Debug\net8.0\LGFM_Abstraction.pdb
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Abstraction\obj\Debug\net8.0\ref\LGFM_Abstraction.dll

@@ -1,0 +1,11 @@
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Entities\bin\Debug\net8.0\LGFM_Entities.deps.json
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Entities\bin\Debug\net8.0\LGFM_Entities.dll
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Entities\bin\Debug\net8.0\LGFM_Entities.pdb
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Entities\obj\Debug\net8.0\LGFM_Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Entities\obj\Debug\net8.0\LGFM_Entities.AssemblyInfoInputs.cache
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Entities\obj\Debug\net8.0\LGFM_Entities.AssemblyInfo.cs
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Entities\obj\Debug\net8.0\LGFM_Entities.csproj.CoreCompileInputs.cache
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Entities\obj\Debug\net8.0\LGFM_Entities.dll
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Entities\obj\Debug\net8.0\refint\LGFM_Entities.dll
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Entities\obj\Debug\net8.0\LGFM_Entities.pdb
+C:\Users\sergio_ramos\source\repos\APILGF\LGFM_Entities\obj\Debug\net8.0\ref\LGFM_Entities.dll

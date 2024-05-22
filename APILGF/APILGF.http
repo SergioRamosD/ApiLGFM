@@ -1,0 +1,6 @@
+@APILGF_HostAddress = http://localhost:5269
+
+GET {{APILGF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
